@@ -1,0 +1,1 @@
+export const NFT_1155_ABI = require('./BounceERC1155').abi
